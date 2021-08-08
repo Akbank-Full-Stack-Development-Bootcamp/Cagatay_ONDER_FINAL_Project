@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diving.API", "Diving.API\Diving.API.csproj", "{16D3CEA8-F82E-4A9F-931B-454049ED3ED9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diving.Models", "Diving.Models\Diving.Models.csproj", "{C3A63A0B-AAF4-453D-A1E3-45C4754369BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diving.Business", "Diving.Business\Diving.Business.csproj", "{3785D330-CB5D-406F-A7AB-89C424C1BB74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diving.DataAccess", "Movies.DataAccess\Diving.DataAccess.csproj", "{911E3AE9-5452-4273-95E6-E61885ED50A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16D3CEA8-F82E-4A9F-931B-454049ED3ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D3CEA8-F82E-4A9F-931B-454049ED3ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D3CEA8-F82E-4A9F-931B-454049ED3ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D3CEA8-F82E-4A9F-931B-454049ED3ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3A63A0B-AAF4-453D-A1E3-45C4754369BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A63A0B-AAF4-453D-A1E3-45C4754369BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A63A0B-AAF4-453D-A1E3-45C4754369BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A63A0B-AAF4-453D-A1E3-45C4754369BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3785D330-CB5D-406F-A7AB-89C424C1BB74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3785D330-CB5D-406F-A7AB-89C424C1BB74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3785D330-CB5D-406F-A7AB-89C424C1BB74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3785D330-CB5D-406F-A7AB-89C424C1BB74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{911E3AE9-5452-4273-95E6-E61885ED50A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911E3AE9-5452-4273-95E6-E61885ED50A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911E3AE9-5452-4273-95E6-E61885ED50A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911E3AE9-5452-4273-95E6-E61885ED50A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {382ECC85-E984-4FD9-9E3C-B3DB09DF6FA5}
+	EndGlobalSection
+EndGlobal

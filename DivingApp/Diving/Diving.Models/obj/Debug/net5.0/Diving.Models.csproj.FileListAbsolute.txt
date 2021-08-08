@@ -1,0 +1,12 @@
+C:\Users\cagatay\source\repos\Diving\Diving.Models\bin\Debug\net5.0\Diving.Models.deps.json
+C:\Users\cagatay\source\repos\Diving\Diving.Models\bin\Debug\net5.0\Diving.Models.dll
+C:\Users\cagatay\source\repos\Diving\Diving.Models\bin\Debug\net5.0\ref\Diving.Models.dll
+C:\Users\cagatay\source\repos\Diving\Diving.Models\bin\Debug\net5.0\Diving.Models.pdb
+C:\Users\cagatay\source\repos\Diving\Diving.Models\obj\Debug\net5.0\Diving.Models.csproj.AssemblyReference.cache
+C:\Users\cagatay\source\repos\Diving\Diving.Models\obj\Debug\net5.0\Diving.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagatay\source\repos\Diving\Diving.Models\obj\Debug\net5.0\Diving.Models.AssemblyInfoInputs.cache
+C:\Users\cagatay\source\repos\Diving\Diving.Models\obj\Debug\net5.0\Diving.Models.AssemblyInfo.cs
+C:\Users\cagatay\source\repos\Diving\Diving.Models\obj\Debug\net5.0\Diving.Models.csproj.CoreCompileInputs.cache
+C:\Users\cagatay\source\repos\Diving\Diving.Models\obj\Debug\net5.0\Diving.Models.dll
+C:\Users\cagatay\source\repos\Diving\Diving.Models\obj\Debug\net5.0\ref\Diving.Models.dll
+C:\Users\cagatay\source\repos\Diving\Diving.Models\obj\Debug\net5.0\Diving.Models.pdb
